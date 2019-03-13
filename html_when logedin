@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title> WAZZAP </title>
+    </head>
+    <body>
+        <ul class="nav">
+            <li><a href="aaa.html">Register</a></li>
+            <li><a href="aaa.html">login</a></li>
+            <li><a href="">a</a></a></li>
+            <li><a href="a">b</a></li>
+            <li><a href="a">About us</a></li>
+        </ul>
+    </body>
+</html>
